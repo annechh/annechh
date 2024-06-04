@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[Contact and connect with me on LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/anne-cathrine-hauge-b893bbb3/))
