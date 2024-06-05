@@ -29,26 +29,16 @@ Here are some ideas to get you started:
 
 Repositories
 ---
-- <div style="display: flex; flex-direction: row;">
-Exam
-<a href="https://github.com/annechh/FED1-Project-Exam-1">
-    Shira's Adventure
-</a> 
-</div>
 
-<div style="display: flex; flex-direction: row;">
--Semester Project
-<a href="https://github.com/annechh/Semester-Project-1">
-    Sunnfjord Science Museum
-</a>
-</div>
+- [Shira's Adventure](https://github.com/annechh/FED1-Project-Exam-1) - Exam
 
-<div style="display: flex; flex-direction: row;">
-- First Html and Css assignment
-<a href="https://github.com/annechh/SquareEyes">
-    SquareEyes
-</a> 
-</div>
+
+- [Sunnfjord Science Museum](https://github.com/annechh/Semester-Project-1) - Semester Project
+
+
+- [SquareEyes](https://github.com/annechh/SquareEyes) - First Html and Css assignment
+
+
 
 My Toolbox
 ---
