@@ -3,7 +3,7 @@ My name is Anne-Cathrine Hauge. Cool of you to pop into my Github Profile 😎
 
 
 
-I am currenty studying frontend development at Noroff School of technology and digital media. 
+I am currenty studying Front-End Development at Noroff School of technology and digital media. 
 
 
 <!--
