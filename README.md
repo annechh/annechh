@@ -27,10 +27,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Projects
+Repositories
 ---
 <a href="https://github.com/annechh/FED1-Project-Exam-1">
     Shira's Adventure
+</a>
+
+<a href="https://github.com/annechh/Semester-Project-1">
+    Sunnfjord Science Museum
+</a>
+
+<a href="https://github.com/annechh/SquareEyes">
+    SquareEyes
 </a>
 
 My Toolbox
