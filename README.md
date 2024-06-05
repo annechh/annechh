@@ -2,8 +2,10 @@
 My name is Anne-Cathrine Hauge. Cool of you to pop into my Github Profile 😎
 
 
+About me
+---
+Living at the west coast of Norway I am currenty doing online studies at Noroff School of technology and digital media to become a Front-End Developer🚀🌟
 
-I am currenty studying Front-End Development at Noroff School of technology and digital media. 
 
 
 <!--
