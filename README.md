@@ -22,5 +22,5 @@ Feel free to contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-cathrine-hauge-b893bbb3/)
 
 <a href="[https://www.instagram.com/yourprofile](https://www.instagram.com/skofant/)">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="100" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
 </a>
