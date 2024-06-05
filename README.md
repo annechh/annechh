@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 Projects
 ---
-<a href"https://github.com/annechh/FED1-Project-Exam-1" Shira's Adventure</a>
 
 My Toolbox
 ---
