@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 My Toolbox
 ---
-Html, Css, Js, Figma, VS Code
+Html - Css - Js - Figma - VS Code
 
 <div style="display: flex;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
