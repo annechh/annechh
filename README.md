@@ -2,10 +2,13 @@
 My name is Anne-Cathrine Hauge. Cool of you to pop into my Github Profile 😎
 
 
-About me
+🧑‍💻 About me
 ---
 I am currenty doing online studies at Noroff School of technology and digital media to become a Front-End Developer.
 My zen place for studies is at the west coast of Norway, where i spend hours of diving into code mode, and Im absolutely digging it! 🤓
+
+When im not in my zen code mode, Im probably out for mountain hikes, paddles or snowboarding. And if im chilling indoors, I crawl up in the sofa or getting lots in game mode.
+🏂🏔️🌊🎮 
 
 
 
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Toolbox
+🔧 My Toolbox
 ---
 Html - Css - Js - Figma - VS Code
 
@@ -36,7 +39,7 @@ Html - Css - Js - Figma - VS Code
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
 </div>
 
-Contact
+ 📫 Contact
 ---
 Feel free to contact me via LinkedIn or Instagram 
 <div style="display: flex;">
