@@ -31,15 +31,15 @@ Repositories
 ---
 - <a href="https://github.com/annechh/FED1-Project-Exam-1">
     Shira's Adventure
-</a>
+</a> Exam
 
 - <a href="https://github.com/annechh/Semester-Project-1">
     Sunnfjord Science Museum
-</a>
+</a> Semester Project
 
 - <a href="https://github.com/annechh/SquareEyes">
     SquareEyes
-</a>
+</a> First Html and Css assignment
 
 My Toolbox
 ---
