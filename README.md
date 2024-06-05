@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Repositories
 ---
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
 <a href="https://github.com/annechh/FED1-Project-Exam-1">
     Shira's Adventure
 </a> 
