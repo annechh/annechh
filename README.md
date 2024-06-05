@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Feel free to contact me:
+📫 How to reach me:
 ---
 <div style="display: flex;">
 <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anne-cathrine-hauge-b893bbb3/)">
