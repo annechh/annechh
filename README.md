@@ -29,10 +29,13 @@ Here are some ideas to get you started:
 
 Repositories
 ---
-- <div style="display: flex;"> <a href="https://github.com/annechh/FED1-Project-Exam-1">
+<div style="display: flex;">
+<a href="https://github.com/annechh/FED1-Project-Exam-1">
     Shira's Adventure
-</a> Exam
+</a> 
+<p>Exam</p>
 </div>
+
 - <a href="https://github.com/annechh/Semester-Project-1">
     Sunnfjord Science Museum
 </a> Semester Project
