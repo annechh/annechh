@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Projects
+---
+<a href"https://github.com/annechh/FED1-Project-Exam-1" Shira's Adventure</a>
+
 My Toolbox
 ---
 Html - Css - Js - Figma - VS Code
