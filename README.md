@@ -21,9 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tool
+Tools
 ---
-
+<div style="display: flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
+</div>
 
 Contact
 ---
