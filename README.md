@@ -1,4 +1,6 @@
-![Screenshot_20230410_114223_1496459708348215](https://github.com/annechh/annechh/assets/142426482/49d7e2dd-41bb-41b2-ae66-54ddf5d8098d)
+<!-- ![Screenshot_20230410_114223_1496459708348215](https://github.com/annechh/annechh/assets/142426482/49d7e2dd-41bb-41b2-ae66-54ddf5d8098d) -->
+![IMG_20230309_184336](https://github.com/annechh/annechh/assets/142426482/cea18410-be4b-4788-9247-237bfe67750a)
+
 ## Hey there! 👋😄
 My name is Anne-Cathrine Hauge. Cool of you to pop into my Github Profile 😎
 
