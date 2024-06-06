@@ -1,5 +1,5 @@
-<!-- ![Screenshot_20230410_114223_1496459708348215](https://github.com/annechh/annechh/assets/142426482/49d7e2dd-41bb-41b2-ae66-54ddf5d8098d) -->
-![IMG_20230309_184336](https://github.com/annechh/annechh/assets/142426482/cbc76218-b78b-497a-aa0e-7c6c25710adf)
+ ![Screenshot_20230410_114223_1496459708348215](https://github.com/annechh/annechh/assets/142426482/49d7e2dd-41bb-41b2-ae66-54ddf5d8098d) 
+<!--![IMG_20230309_184336](https://github.com/annechh/annechh/assets/142426482/cbc76218-b78b-497a-aa0e-7c6c25710adf)-->
 
 
 ## Hey there! 👋😄
