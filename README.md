@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Repositories
+Projects
 ---
 
 - [Shira's Adventure](https://github.com/annechh/FED1-Project-Exam-1) - Exam
