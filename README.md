@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Projects
+Repositories
 ---
+
+- [Bid Me](https://github.com/annechh/BidMe-SP-2) - Semester Project 2
+  
 
 - [Shira's Adventure](https://github.com/annechh/FED1-Project-Exam-1) - Exam
 
