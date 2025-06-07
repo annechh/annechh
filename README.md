@@ -3,15 +3,17 @@
 
 
 ## Hey there! 👋😄
-My name is Anne-Cathrine Hauge. Cool of you to pop into my Github Profile 😎
+I'm Anne. Cool of you to pop into my Github Profile 😎
 
 
-About me
----
+## About me
+
 I am currently studying online at Noroff School of technology and digital media to become a Front-End Developer.
 My zen place for studies is at the west coast of Norway, where i spend hours of diving into code mode, and Im absolutely digging it! 🤓
 
-When im not in my zen code mode, Im probably out for mountain hikes, paddles or my absolute favorite addiction...snowboarding! And if im chilling indoors, I crawl up in the sofa for series and movies or getting lost in game mode.
+What excites me most is constant learning and creative problem-solving. My goal is to join a team where I can grow, contribute, and eventually explore backend development to become a full-stack developer.
+
+When im not in coding mode, Im probably out for mountain hikes, paddles or my absolute favorite addiction...snowboarding! And if im chilling indoors, I crawl up in the sofa for series and movies or getting lost in game mode.
 🏂🏔️🌊🎮 
 
 
@@ -31,20 +33,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Repositories
----
+## Featured Projects
+
+- [Holidaze](https://hal-holidaze.netlify.app/) - Project Exam 2
 
 - [Bid Me](https://github.com/annechh/BidMe-SP-2) - Semester Project 2
   
-
-- [Shira's Adventure](https://github.com/annechh/FED1-Project-Exam-1) - Exam
-
-
-- [Sunnfjord Science Museum](https://github.com/annechh/Semester-Project-1) - Semester Project
-
-
-- [SquareEyes](https://github.com/annechh/SquareEyes) - First Html and Css assignment
-
 
 
 My Toolbox
@@ -59,8 +53,16 @@ Html - Css - Js - Figma - VS Code
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
 </div>
 
-Contact
----
+
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annechh&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+## Portfolio
+- [Portfolio](https://haugedev.com/)
+
+
+## Connect
+
 Feel free to contact me via LinkedIn or Instagram 
 <div style="display: flex;">
 <a href="https://www.linkedin.com/in/anne-cathrine-hauge-b893bbb3/">
