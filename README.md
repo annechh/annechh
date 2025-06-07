@@ -1,11 +1,10 @@
- ![Screenshot_20230410_114223_1496459708348215](https://github.com/annechh/annechh/assets/142426482/49d7e2dd-41bb-41b2-ae66-54ddf5d8098d) 
 <!--![IMG_20230309_184336](https://github.com/annechh/annechh/assets/142426482/cbc76218-b78b-497a-aa0e-7c6c25710adf)-->
 
+<H1 align="center">Hey there! 👋😄</H1> 
+<p align="center">I'm Anne. Cool of you to pop into my Github Profile 😎</p>
 
-## Hey there! 👋😄
-I'm Anne. Cool of you to pop into my Github Profile 😎
-
-
+ ![Screenshot_20230410_114223_1496459708348215](https://github.com/annechh/annechh/assets/142426482/49d7e2dd-41bb-41b2-ae66-54ddf5d8098d) 
+ 
 ## About me
 
 I am currently studying online at Noroff School of technology and digital media to become a Front-End Developer.
@@ -43,15 +42,15 @@ Here are some ideas to get you started:
 
 My Toolbox
 ---
-Html - Css - Js - Figma - VS Code
 
-<div style="display: flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 
 ## GitHub Stats
@@ -63,7 +62,7 @@ Html - Css - Js - Figma - VS Code
 
 ## Connect
 
-Feel free to contact me via LinkedIn or Instagram 
+Feel free to connect with me on LinkedIn or Instagram 
 <div style="display: flex;">
 <a href="https://www.linkedin.com/in/anne-cathrine-hauge-b893bbb3/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
