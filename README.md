@@ -7,13 +7,13 @@
  
 ## About me
 
-I am currently studying online at Noroff School of technology and digital media to become a Front-End Developer.
-My zen place for studies is at the west coast of Norway, where i spend hours of diving into code mode, and Im absolutely digging it! 🤓
+I have completed my studies in Front-End Development at Noroff School of Technology and Digital Media.
+My zen place is at the west coast of Norway, where I spend hours diving into code mode — and I’m absolutely digging it! 🤓
 
-What excites me most is constant learning and creative problem-solving. My goal is to join a team where I can grow, contribute, and eventually explore backend development to become a full-stack developer.
+I enjoy working with design and turning ideas into user-friendly solutions, and I’m also starting to dip my nose into backend development with the goal of becoming a full-stack developer.
 
-When im not in coding mode, Im probably out for mountain hikes, paddles or my absolute favorite addiction...snowboarding! And if im chilling indoors, I crawl up in the sofa for series and movies or getting lost in game mode.
-🏂🏔️🌊🎮 
+When I’m not in coding mode, I’m probably out hiking in the mountains or chasing my absolute favorite addiction... snowboarding! And when I’m indoors, I’m either getting lost in game mode or enjoying series and movies.
+🏂🏔️💻🎮🎬
 
 
 
