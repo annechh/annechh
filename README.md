@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 - [Bid Me](https://github.com/annechh/BidMe-SP-2) - Semester Project 2
   
 
+## Portfolio
+- [Portfolio](https://haugedev.com/)
 
 My Toolbox
 ---
@@ -56,8 +58,6 @@ My Toolbox
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annechh&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-## Portfolio
-- [Portfolio](https://haugedev.com/)
 
 
 ## Connect
