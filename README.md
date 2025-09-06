@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-- [Holidaze](https://hal-holidaze.netlify.app/) - Project Exam 2
+- [Holidaze](https://github.com/H-A-L-code/project-exam-2) - Project Exam 2
 
 - [Bid Me](https://github.com/annechh/BidMe-SP-2) - Semester Project 2
   
