@@ -1,19 +1,30 @@
 <!--![IMG_20230309_184336](https://github.com/annechh/annechh/assets/142426482/cbc76218-b78b-497a-aa0e-7c6c25710adf)-->
 
-<H1 align="center">Hey there! 👋😄</H1> 
-<p align="center">I'm Anne. Cool of you to pop into my Github Profile 😎</p>
-
  ![Screenshot_20230410_114223_1496459708348215](https://github.com/annechh/annechh/assets/142426482/49d7e2dd-41bb-41b2-ae66-54ddf5d8098d) 
- 
-## About me
 
-I have completed my studies in Front-End Development at Noroff School of Technology and Digital Media.
-My zen place is at the west coast of Norway, where I spend hours diving into code mode — and I’m absolutely digging it! 🤓
+<H1>Hey there! 👋😄</H1> 
+<p>I'm Anne. Cool of you to pop into my Github Profile 😎</p>
 
-I enjoy working with design and turning ideas into user-friendly solutions, and I’m also starting to dip my nose into backend development with the goal of becoming a full-stack developer.
+I'm a junior frontend developer based on the west coast of Norway.
+I recently completed my studies in Front-End Development at Noroff School of Technology and Digital Media, and I enjoy creating clean, responsive, and visually appealing web solutions.
 
-When I’m not in coding mode, I’m probably out hiking in the mountains or chasing my absolute favorite addiction... snowboarding! And when I’m indoors, I’m either getting lost in game mode or enjoying series and movies.
-🏂🏔️💻🎮🎬
+I love turning ideas and designs into functional, user-friendly experiences through code.
+Lately, I’ve also started exploring backend development, aiming to grow into a full-stack developer.
+
+## Interests
+<ul>
+<li>🏂 Snowboard</li>
+<li>🏔️ Hiking</li>
+<li>💻 Projects</li>
+<li>🎮 Gaming</li>
+<li>🎬 Movies/series</li>
+</ul>
+
+
+
+
+
+
 
 
 
